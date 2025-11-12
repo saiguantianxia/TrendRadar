@@ -5,29 +5,12 @@ Elon Musk
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-小米
-雷军
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-京东
-刘强东
-
-美团
-王兴
-
 字节
 bytedance
 抖音
+豆包
+火山引擎
+即梦
 张一鸣
 
 特斯拉
@@ -40,12 +23,11 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
 deepmind
+Nano Banana
 
 chatgpt
 openai
@@ -55,14 +37,13 @@ Sam Altman
 
 claude
 Anthropic
+claude code
 
-iphone
-ipad
+iPhone
+iPad
 mac
-ios
+iOS
 
-ai
-人工智能
 
 AI编程
 vibe code
@@ -73,25 +54,8 @@ GLM
 Kimi K2 Thinking
 QWen3
 
-
-
-
-自动驾驶
 特斯拉
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
+model Y
 
 双11
 618
